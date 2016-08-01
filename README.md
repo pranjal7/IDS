@@ -1,14 +1,14 @@
 #IDS - Intrusion Detection System 
 
 ## Introduction
-This system allows users to block any intrusion by blocking the IP Addresses of the of the intruders. This also adds the IP Address to the blacklist which ensures that the IP address is never used again to access the system
+This system allows users to block any intrusion by blocking the IP Addresses of the intruders. This also adds the IP Address to the blacklist which ensures that the IP address is never used again to access the system
 
 ##Configuration and Linux Commands
 
-* The Pi was updated witha all the latest updated
+* The Pi was updated with all the latest updated
   Command: <pre><code> sudo apt-get update </code></pre>
  
-* The Pi was upgrade to install any new upgrades to it.
+* The Pi was upgraded to install any new upgrades to it.
   Command: <pre><code>sudo apt-get upgrade </code></pre>
 * Installed arp-scan on the Pi.  
 Command: <pre><code>sudo apt-get install arp-scan </code></pre>
