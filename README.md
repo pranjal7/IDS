@@ -8,7 +8,7 @@ This system allows users to block any intrusion by blocking the IP Addresses of 
 
 ##Configuration and Linux Commands
 
-* The Pi was updated with all the latest updated
+* The Pi was updated using the following
 	Command: <pre><code> sudo apt-get update </code></pre>
  
 * The Pi's firmware was upgraded.
@@ -16,7 +16,7 @@ This system allows users to block any intrusion by blocking the IP Addresses of 
 
 * Installed arp-scan on the Pi.  
 	Command: <pre><code>sudo apt-get install arp-scan </code></pre>
-	arp-scan sends ARP packets to the hosts on the local network and displays any responses that has received. 
+	arp-scan sends ARP packets to the hosts on the local network and displays any response that has been received. 
 	The network interface can be selected by adding <pre><code>--interface option</code></pre> to the arp-scan command.
 	By default arp-scan searches the system interface list and displays the lowest numbered interface but excludes the loopback interface.
 
