@@ -1,4 +1,4 @@
-<!-- # IDS - Intrusion Detection System -->
+ # IDS - Intrusion Detection System 
 
 ## Introduction
 This system allows users to block any intrusion by blocking the IP Addresses of the of the intruders. This also adds the IP Address to the blacklist which ensures that the IP address is never used again to access the system
